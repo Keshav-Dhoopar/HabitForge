@@ -154,6 +154,5 @@ To start fresh, close the app and delete `habits.db`. A new empty one is created
 
 ## Author
 
-**Ayush**
+**Keshav DHoopar**
 B.Tech, Artificial Intelligence & Data Science, CGC Jhanjeri
-GitHub: [@ayushjish2005-byte](https://github.com/ayushjish2005-byte)
